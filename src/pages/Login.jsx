@@ -38,7 +38,7 @@ const Login = () => {
   return (
     <div
       style={{
-        backgroundImage: `url('https://images.pexels.com/photos/7134987/pexels-photo-7134987.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')`, // Replace with your desired image URL
+        backgroundImage: `url('https://images.pexels.com/photos/2847648/pexels-photo-2847648.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')`, // Replace with your desired image URL
         backgroundSize: "cover",
         backgroundPosition: "center",
         minHeight: "100vh",
